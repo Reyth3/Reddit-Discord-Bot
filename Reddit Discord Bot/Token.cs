@@ -1,10 +1,11 @@
-﻿namespace DiscordBot
+﻿namespace Reddit_Discord_Bot
 {
-    static class Q
+    static class BotToken
     {
-        static Q()
+        static BotToken()
         {
-            Token = "MjQ1MzAxMTQxNzU0MjE2NDQ4.CwKGJA.rAcBRQ6WpDYbVSSX7-r1Zo1ay5k";
+            Id = "324556800735182858";
+            Token = "MzI0NTU2ODAwNzM1MTgyODU4.DCLasw.j2xbInqi3uEBglSOdyncTqPbi6k";
         }
 
         public static string Id { get; set; }
